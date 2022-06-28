@@ -1,0 +1,35 @@
+#body-id{
+    background-color:bisque;
+}
+div span{
+    background-color:aquamarine;
+
+}
+.sub-title{
+    background-color: aqua;
+}
+#hii{
+    background-color: blueviolet;
+    font-size: 100px;
+}
+.para{
+    border-width: 5px;
+    border-color: black;
+    border-radius: 40px;
+    border-style: solid;
+    text-align: center;
+    background-color: cornflowerblue;
+}
+.formm{
+    background-color: darkgoldenrod;
+    font-family: fantasy;
+
+}
+.input{
+    border-width: 5px;
+    border-color: black;
+    border-radius: 40px;
+    border-style: solid;
+    background-color: cornflowerblue;
+    font-family: cursive;
+}
